@@ -1,4 +1,6 @@
 RENCANA FITUR
 -FORM LOGIN
+ * Menggunakan method post
+ * Menggunakan frame work
 -FORM LOGOUT
 -FORM EDIT
